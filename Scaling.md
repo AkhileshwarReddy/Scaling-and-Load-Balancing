@@ -47,4 +47,4 @@ There are different Load Balancing Algorithms to specify how to route the reques
 https://en.wikipedia.org/wiki/Scalability  
 https://en.wikipedia.org/wiki/Load_balancing_(computing)  
 https://www.nginx.com/resources/glossary/load-balancing/  
-
+https://www.section.io/blog/scaling-horizontally-vs-vertically/  
